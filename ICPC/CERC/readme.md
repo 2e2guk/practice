@@ -12,6 +12,10 @@ CERC 2020
 
 link = https://www.acmicpc.net/category/detail/2795
 
+CERC 2021
+
+link = https://www.acmicpc.net/category/detail/3108
+
 CERC 2023 
 
 link = https://www.acmicpc.net/category/detail/4073 
