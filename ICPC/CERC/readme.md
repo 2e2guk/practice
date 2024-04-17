@@ -20,7 +20,7 @@ CERC 2023
 
 link = https://www.acmicpc.net/category/detail/4073 
 
-AMPPZ(Poland Collegiate Programming Contest)
+AMPPZ(Poland Collegiate Programming Contest) 2015
 
 link = https://www.acmicpc.net/category/detail/3089
 
